@@ -1,0 +1,6 @@
+Flask==2.2.5
+SQLAlchemy==1.4.51
+
+streamlit==1.28.0
+requests==2.31.0
+pandas==2.2.3
